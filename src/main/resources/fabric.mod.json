@@ -3,7 +3,10 @@
 	"id": "goldenspawneroverlay",
 	"version": "${version}",
 	"name": "Golden Spawner Overlay",
-	"description": "Shows Golden Spawner data in the item tooltip when hovered in an inventory.",
+	"description": "Open-source client-side info overlay for Golden Spawners. Shows only server-synchronized data from the hovered inventory item; no scanning, automation, or gameplay advantages. Source: https://github.com/ZZarxs/HollyWorld-gold-spawner-info",
+	"contact": {
+		"sources": "https://github.com/ZZarxs/HollyWorld-gold-spawner-info"
+	},
 	"authors": ["Zarxs"],
 	"license": "CC0-1.0",
 	"icon": "assets/modid/icon.png",
@@ -20,4 +23,3 @@
 		"fabric-api": "*"
 	}
 }
-
